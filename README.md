@@ -1,2 +1,1 @@
 ﻿# uuk-ganjil-Mexami1
-# database
